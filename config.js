@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Hôm nay sao trên trời thực sự rất đẹp, 
     toi cũng thiếu một chút nữa đã nói nhớ cậu rồi.`,
     btnIntro: 'rồi sao?',
-    title: 'Thực ra toi đã tỏ tình với Piggy lâu rồi, ở trong từng ánh mắt ta chạm nhau đé',
+    title: 'Thực ra toi đã tỏ tình với Piggy lâu rồi, ở trong từng ánh mắt ta chạm nhau á.',
     desc: 'Ấy vậy mà Piggy toàn đeo kính kh đúng độ không à :(( ',
     btnYes: 'cái thứ đáng eo:3',
     btnNo: 'kệ bạn, toi khong quan tâm.',
