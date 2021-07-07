@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Lắm trò',
     reply: 'sao dzị? bạn rủ toi đi đâu à?',
     mess: 'Thé có đi khong?',
-    messDesc: 'giờ rep inbox nhó',
+    messDesc: 'giờ rep inbox nhó=))',
     btnAccept: 'Hên xui:v',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
