@@ -1,17 +1,17 @@
 const CONFIG = {
     introTitle: 'Piggy oi!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Trái đất vốn lạ thường,
+    mà sao em cứ đi nhầm đường,
+    lạc vào tim anh lẻ loi,
+    đằng sau chữ yêu đây là thương`,
     btnIntro: 'rồi sao?',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Thực ra toi đã tỏ tình với Piggy lâu rồi, ở trong từng ánh mắt ta chạm nhau',
+    desc: 'Ấy vậy mà Piggy toàn đeo kính kh đúng độ không à :(( ',
     btnYes: 'cái thứ đáng eo:3',
-    btnNo: 'kệ bạn, toi khong quan tam.',
+    btnNo: 'kệ bạn, toi khong quan tâm.',
     question:'Vũ trụ thì có 4 chiều. Vậy chiều thứ 7 Piggy có rảnh khum? ',
     btnReply: 'Lắm trò',
-    reply: 'sao dzị? bạn rủ toi đi đâu à?',
+    reply: 'đi unc nè ',
     mess: 'Thé có đi khong?',
     messDesc: 'giờ rep inbox nhó=))',
     btnAccept: 'Hên xui:v',
